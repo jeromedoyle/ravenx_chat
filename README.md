@@ -1,5 +1,9 @@
 # ravenx_chat
 
+[![Hex.pm](https://img.shields.io/hexpm/v/ravenx_chat.svg?style=flat)](https://hex.pm/packages/ravenx_chat)
+[![Hex.pm](https://img.shields.io/hexpm/l/ravenx_chat.svg?style=flat)](https://github.com/jeromedoyle/ravenx_chat/blob/master/LICENSE.md)
+[![Hex.pm](https://img.shields.io/hexpm/dt/ravenx_chat.svg?style=flat)](https://hex.pm/packages/ravenx_chat)
+
 Ravenx strategy to send Hangouts Chat notifications adapted from [ravenx_slack](https://github.com/acutario/ravenx_slack)
 
 ## Installation
